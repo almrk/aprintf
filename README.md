@@ -1,2 +1,2 @@
 # aprintf
-An independant printf implementation for C
+An independent printf implementation for C
